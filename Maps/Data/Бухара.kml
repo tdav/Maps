@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="fillColor:ff931e99_strokeColor:ed4543e6_strokeWidth:5">
+			<LineStyle>
+				<color>e64345ed</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>991e93ff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<Data name="creator">
+				<value><![CDATA[Yandex Map Constructor]]></value>
+			</Data>
+		</ExtendedData>
+		<name><![CDATA[Бухара МФИ]]></name>
+		<description/>
+		<Folder>
+			<Placemark>
+				<name/>
+				<description><![CDATA[ваываываыва]]></description>
+				<styleUrl>#fillColor:ff931e99_strokeColor:ed4543e6_strokeWidth:5</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>64.40158596350517,39.74320886132154 64.40793743445245,39.742148697893114 64.42295780493582,39.74194991542002 64.4227003128704,39.73154615942027 64.42244282080499,39.73061835908845 64.39849605871999,39.73658257017575 64.40158596350517,39.74320886132154</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
